@@ -1,0 +1,15 @@
+button {
+    background-color: #648FFF;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #785EF0;
+}
